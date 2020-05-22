@@ -2,9 +2,7 @@
 
 > Fork of the original Kodi skin to change some things in my own interest
 
-## Fork of `skin.estouchy` version `3.0.2`. Only for current Kodi master branch
-
-* For Kodi 18.7-Leia goto the (old branch)[https://github.com/bySabi/skin.estouchy_tempo/tree/old]
+## Fork of `skin.estouchy` version `2.0.23`. Only for Kodi `18.1` upto `18.1`
 
 ## Changes
 
