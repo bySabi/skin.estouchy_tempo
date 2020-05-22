@@ -6,7 +6,7 @@
 
 ## Changes
 
-### Use the Forward and Rewind buttons to speed up the video playback speed. Maximum 2X
+### Use the `Forward` and `Rewind` buttons to speed up the video playback speed. Maximum 2X
 It will only work if the Player Tempo setting is enabled.
 
 ## Maintenance instructions
