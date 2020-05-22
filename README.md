@@ -4,11 +4,11 @@
 
 ## Fork of `skin.estouchy` version `3.0.2`. Only for current Kodi master branch
 
-* For Kodi 18.7-Leia goto the (old branch)[https://github.com/bySabi/skin.estouchy_tempo/tree/old]
+* For Kodi 18.7-Leia goto the [old branch](https://github.com/bySabi/skin.estouchy_tempo/tree/old)
 
 ## Changes
 
-### Use the Forward and Rewind buttons to speed up the video playback speed. Maximum 2X
+### Use the `Forward` and `Rewind` buttons to speed up the video playback speed. Maximum 2X
 It will only work if the Player Tempo setting is enabled.
 
 ## Maintenance instructions
