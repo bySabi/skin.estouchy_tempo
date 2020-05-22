@@ -57,6 +57,9 @@ It will only work if the Player Tempo setting is enabled.
       <onclick condition="Player.TempoEnabled">PlayerControl(tempoup)</onclick>
 ```
 
+## Usage
+Download this repo like a ZIP file. install it as is in Kodi
+
 
 ## CAUTION!!
 
