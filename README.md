@@ -2,7 +2,9 @@
 
 > Fork of the original Kodi skin to change some things in my own interest
 
-## Fork of `skin.estouchy` version `3.0.2`
+## Fork of `skin.estouchy` version `3.0.2`. Only for current Kodi master branch
+
+* For Kodi 18.7-Leia goto the (old branch)[https://github.com/bySabi/skin.estouchy_tempo/tree/old]
 
 ## Changes
 
@@ -32,7 +34,7 @@ It will only work if the Player Tempo setting is enabled.
                <onclick>PlayerControl(Rewind)</onclick>
 ```
     
-     with (only "<onclick" line)
+     with (only "<onclick" line) ...
      
 ```
       <onclick condition="!Player.TempoEnabled">PlayerControl(Rewind)</onclick>
@@ -50,12 +52,27 @@ It will only work if the Player Tempo setting is enabled.
                <onclick>PlayerControl(Forward)</onclick>
 ```
     
-     with (only "<onclick" line)
+     with (only "<onclick" line) ...
      
 ```
       <onclick condition="!Player.TempoEnabled">PlayerControl(Forward)</onclick>
       <onclick condition="Player.TempoEnabled">PlayerControl(tempoup)</onclick>
 ```
+
+5- Edit `skin.estouchy_tempo/addon.xml`
+
+####   Replace#1:
+
+```
+     <addon id="skin.estouchy" ... name="Estouchy" ...
+```
+
+     with ...
+
+```
+      <<addon id="skin.estouchy_tempo" ... name="Estouchy Tempo" ...
+```
+
 
 ## Usage
 Download this repo like a ZIP file. install it as is in Kodi
