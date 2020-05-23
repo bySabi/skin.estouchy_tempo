@@ -73,7 +73,19 @@ It will only work if the Player Tempo setting is enabled.
 
 
 ## Usage
-Download this repo like a ZIP file. install it as is in Kodi
+
+* Enable 'tempo'
+
+Edit `/Android/data/org.xbmc.kodi/files/.kodi/userdata/advancedsettings.xml` and add:
+
+```
+<video>
+  <maxtempo>2</maxtempo>
+</video>
+```
+
+
+* Download this repo like a ZIP file. install it as is in Kodi
 
 
 ## CAUTION!!
