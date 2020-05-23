@@ -86,6 +86,8 @@ Edit `/Android/data/org.xbmc.kodi/files/.kodi/userdata/advancedsettings.xml` and
 </video>
 ```
 
+* Enable "Sync playback to display" on `Kodi > Settings > Video`
+
 
 * Download this repo like a ZIP file. install it as is in Kodi
 
